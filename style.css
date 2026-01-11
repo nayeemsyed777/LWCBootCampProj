@@ -42,3 +42,10 @@ form {
     padding: 20px;
     border-radius: 10px;
 }
+
+.g-recaptcha{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+
+}
